@@ -1,5 +1,3 @@
-Here are the structured notes based on the lecture transcript regarding **Word2Vec**.
-
 ## 1. Introduction to Word2Vec
 
 **Word2Vec** is a specific deep learning-based technique for Natural Language Processing (NLP), published by **Google in 2013**.
@@ -66,7 +64,7 @@ $$Distance = 1 - CosineSimilarity$$
 
 $$CosineSimilarity = \cos(\theta)$$
 
-[\[Image of cosine similarity between two vectors\]](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTTl5nn9Y7RX-QqRUxI6YI-USb3y2lVh0KN5e__RamkFW2ovtNmUhCd-QgrLSXYTOVqaUAFNaJqYObe254FxfG1FgjurBMUuSTuWXH_yAYRZKxtfc4)
+![Cosine similarity](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTTl5nn9Y7RX-QqRUxI6YI-USb3y2lVh0KN5e__RamkFW2ovtNmUhCd-QgrLSXYTOVqaUAFNaJqYObe254FxfG1FgjurBMUuSTuWXH_yAYRZKxtfc4)
 
 ### 4.2. Interpreting the Angle
 
